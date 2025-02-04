@@ -65,7 +65,7 @@ Règles entrantes :
 ![](./screen/inbound_acl.png)
 
 Règles sortantes :
-! [](./screen/Outbound_acl.png)
+![](./screen/Outbound_acl.png)
 
 ##### Nextcloud
 
