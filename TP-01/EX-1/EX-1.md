@@ -25,14 +25,14 @@
 
 En conclusion, l'instance qui respecte le mieux les critères est la t4g.small
 
-### II/ Déploiement pache
+### II/ Déploiement Apache
 
 ```
 ubuntu@ip-172-31-11-33:~$ sudo apt update
 Hit:1 http://ports.ubuntu.com/ubuntu-ports noble-security InRelease
-Hit:2 http://eu-west-3c.clouds.ports.ubuntu.com/ubuntu-ports noble InRelease
-Hit:3 http://eu-west-3c.clouds.ports.ubuntu.com/ubuntu-ports noble-updates InRelease
-Hit:4 http://eu-west-3c.clouds.ports.ubuntu.com/ubuntu-ports noble-backports InRelease
+Hit:2 http://eu-north-1c.clouds.ports.ubuntu.com/ubuntu-ports noble InRelease
+Hit:3 http://eu-north-1c.clouds.ports.ubuntu.com/ubuntu-ports noble-updates InRelease
+Hit:4 http://eu-north-1c.clouds.ports.ubuntu.com/ubuntu-ports noble-backports InRelease
 Reading package lists... Done
 Building dependency tree... Done
 Reading state information... Done
