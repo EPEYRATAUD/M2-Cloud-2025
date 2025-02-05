@@ -116,3 +116,9 @@ Connection to 51.20.250.169 closed.
 ### III/ Schéma
 
 ![](./screen/schéma_bastion_nextcloud.png)
+
+### IV/ Suppression des ressources
+
+Aucune ressource lié au tag name `epeyrataud` est existant :
+![](./screen/suppression_1.png)
+![](./screen/suppression_2.png)
