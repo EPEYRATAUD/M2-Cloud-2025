@@ -40,7 +40,8 @@ users:~/environment $ aws iam list-users
 
 ```
 
-users:~/environment $ aws --profile formation-infra-cloud iam list-users --query "Users[?Path=='/users/ynov/']"
+users:~/environment $ aws --profile formation-infra-cloud iam list-users --path-prefix "/users/ynov/" --output json
+
 
 [
     {
@@ -65,7 +66,8 @@ users:~/environment $ aws --profile formation-infra-cloud iam list-users --query
 #### 3. Afficher uniquement les noms des utilisateurs
 
 ```
-users:~/environment $ aws --profile formation-infra-cloud iam list-users --output json | jq '.Users[] | select(.Path=="/users/ynov/") | .UserName'
+users:~/environment $ aws --profile formation-infra-cloud iam list-users --path-prefix "/users/ynov/" --query "Users[].UserName" --output json
+[
 
 "epeyrataud"
 "groux"
@@ -85,4 +87,6 @@ users:~/environment $ aws --profile formation-infra-cloud iam list-users --outpu
 "tfourcade"
 "tquesnoy"
 "ymontagnier"
+
+]
 ```
