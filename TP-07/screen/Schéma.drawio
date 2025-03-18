@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram id="GNU3i8hCxYjH3E0Nk9u4" name="Page-1">
-    <mxGraphModel dx="3198" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,14 +154,14 @@
         <mxCell id="m0L7TuGwdPghIgZBg90s-2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;epeyrataud-alb&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: right;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=right;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.alb_application_load_balancer_02;" parent="qNu9TVXpDzVPsYWxxDan-283" vertex="1">
           <mxGeometry x="137.32" y="158.35" width="33.3" height="33.3" as="geometry" />
         </mxCell>
-        <mxCell id="Z4qH4PWYV_EjvrbyzlGh-25" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;html=1;align=center;container=0;" vertex="1" parent="qNu9TVXpDzVPsYWxxDan-283">
+        <mxCell id="Z4qH4PWYV_EjvrbyzlGh-25" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;html=1;align=center;container=0;" parent="qNu9TVXpDzVPsYWxxDan-283" vertex="1">
           <mxGeometry x="1.7321398987573957" width="278.5" height="760" as="geometry" />
         </mxCell>
         <mxCell id="qNu9TVXpDzVPsYWxxDan-2" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;html=1;align=center;container=0;" parent="FXCXVvDxTQtwc45PbP1s-163" vertex="1">
           <mxGeometry x="852.51" y="10" width="278.5" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="qNu9TVXpDzVPsYWxxDan-5" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;html=1;align=center;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="-84.47000000000003" y="200" width="281.96" height="770" as="geometry" />
+        <mxCell id="qNu9TVXpDzVPsYWxxDan-5" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;html=1;align=center;flipH=0;" parent="FXCXVvDxTQtwc45PbP1s-163" vertex="1">
+          <mxGeometry x="152.51" y="10" width="281.96" height="770" as="geometry" />
         </mxCell>
         <mxCell id="FXCXVvDxTQtwc45PbP1s-115" value="Icons" style="" parent="0" />
       </root>
